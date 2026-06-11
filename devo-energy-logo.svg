@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 96" width="380" height="96" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3ddc84"/>
+      <stop offset="1" stop-color="#1e90ff"/>
+    </linearGradient>
+  </defs>
+  <!-- icon -->
+  <rect x="10" y="14" width="68" height="68" rx="18" fill="url(#spark)"/>
+  <rect x="10" y="14" width="68" height="68" rx="18" fill="#ffffff" opacity="0.06"/>
+  <path d="M50 26 L33 52 H45 L42 70 L61 42 H48 Z" fill="#ffffff"/>
+  <!-- wordmark -->
+  <text x="96" y="52" font-size="40" font-weight="800" fill="#0a1f3c" letter-spacing="0.5">DEVO</text>
+  <text x="232" y="52" font-size="40" font-weight="300" fill="#1e90ff" letter-spacing="1">ENERGY</text>
+  <text x="98" y="76" font-size="12.5" font-weight="600" fill="#5b6b86" letter-spacing="4.5">ULTRASNEL LADEN</text>
+</svg>
